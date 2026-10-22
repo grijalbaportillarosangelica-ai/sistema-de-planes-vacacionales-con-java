@@ -1,0 +1,18 @@
+HU-01 — Registrar cliente**
+
+📌 Prioridad: Alta
+
+📖 Descripción:
+Como usuario del sistema, quiero poder registrar los datos de un nuevo cliente para guardar su información y consultarla cuando lo necesite.
+
+✅ Criterios de aceptación:
+- El formulario muestra los campos obligatorios marcados
+- No se envía si faltan datos por completar
+- Al guardar exitosamente aparece un mensaje de confirmación
+- Los datos quedan almacenados correctamente en el sistema
+
+🔖 Tareas:
+- [ ] Diseñar el formulario
+- [ ] Programar validaciones
+- [ ] Conectar con la base de datos
+- [ ] Realizar pruebas
